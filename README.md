@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Ionic, MEAN Development, Coding practices**
 
-- 📫 How to reach me **joytank531997@gmail.com**
+- 📫 How to reach me <a href="mailto:joytank531997@gmail.com">📧</a>
 
 - 📄 Know about my experiences [https://iamjoy.web.app](https://iamjoy.web.app)
 
