@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Angular, Nodejs, NestJs**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **Ionic, MEAN Development, Coding practices**
 
