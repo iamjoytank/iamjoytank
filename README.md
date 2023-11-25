@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **Ionic, MEAN Development, Coding practices**
+- 💬 Ask me about **Full Stack Development, Coding practices, Time management **
 
 - 📫 How to reach me <a href="mailto:joytank531997@gmail.com">📧</a>
-
-- 📄 Know about my experiences [https://iamjoy.web.app](https://iamjoy.web.app)
 
 - ⚡ Fun fact **I'm Jolly**
 
@@ -40,6 +38,9 @@
 	<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="express" width="30"
 			height="30" />
+	</a>	
+	<a href="https://nextjs.org" target="_blank" rel="noreferrer">
+		<img src="https://nextjs.org/favicon.ico" alt="angular" width="30" height="30" />
 	</a>
 	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 		<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws"
