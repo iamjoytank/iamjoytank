@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjoytank&label=Profile%20views&color=0e75b6&style=flat" alt="iamjoytank" /> </p>
 
-- 🔭 I’m currently working on **Angular, Nodejs, NestJs**
+- 🔭 I’m currently working on **Angular, Nodejs, NestJs,NextJs, Python,AI/ML**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Python, AI/ML,A2A**
 
 - 💬 Ask me about **Full Stack Development, Coding practices, Time management **
 
