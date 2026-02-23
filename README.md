@@ -1,110 +1,134 @@
-<h1 align="center">Hi 👋, I'm Joy tank</h1>
-<h3 align="center">A Passionate Full Stack Developer from 🇮🇳❤</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="center" alt="coding" width="100%" height="75%" src="https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjoytank&label=Profile%20views&color=0e75b6&style=flat" alt="iamjoytank" /> </p>
+<h1 align="center">Hi 👋, I'm Joy Tank</h1>
+<h3 align="center">Lead Full Stack Engineer | AI Systems Builder | Cloud-Native Architect 🚀</h3>
 
-- 🔭 I’m currently working on **Angular, Nodejs, NestJs,NextJs, Python,AI/ML**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamjoytank&label=Profile%20views&color=0e75b6&style=flat" alt="iamjoytank" />
+</p>
 
-- 🌱 I’m currently learning **Python, AI/ML,A2A**
+---
 
-- 💬 Ask me about **Full Stack Development, Coding practices, Time management **
+### 👨‍💻 About Me
 
-- 📫 How to reach me <a href="mailto:joytank.career@gmail.com">📧</a>
+* 🚀 5+ years building **scalable, cloud-native & fault-tolerant systems**
+* 🧠 Designing & deploying **LLM-powered AI agents and multimodal AI applications**
+* 🏗️ Architecting **microservices & event-driven systems** handling high concurrency
+* ⚡ Optimizing APIs & frontends with performance improvements up to **90%**
+* 📈 Scaling platforms to support **1M+ concurrent users** with high availability
+* ☁️ Working across **AWS, GCP & modern cloud-native architectures**
+* 🔐 Implementing secure systems using **OAuth2, JWT & RBAC**
+* 🐳 Building containerized applications with **Docker & production-grade deployments**
+* 🧩 Strong focus on **clean architecture, system design & maintainable code**
+* 🎯 Product-minded engineer who builds systems with real business impact
+---
 
-- ⚡ Fun fact **I'm Jolly**
+### 🛠️ What I Work With
 
-<h3 align="left">Connect with me:</h3>
+**Languages**
+- JavaScript | TypeScript | Python  
+
+**Frontend**
+- Angular (v9–16) | React.js | Next.js | Ionic (Capacitor) | TanStack
+
+**Backend**
+- Node.js | NestJS | ExpressJs
+- REST APIs | GraphQL APIs  
+- Microservices & Event-Driven Systems  
+ 
+**Cloud & DevOps**
+- AWS | GCP | Azure (basic)
+- Docker
+- NGINX | PM2  
+- AWS SQS | AWS SNS  
+- CI/CD Pipelines  
+
+**Databases**
+- PostgreSQL | MySQL | MongoDB | Supabase | Firebase | Redis | Elastic Search
+
+**Security**
+- OAuth 2.0 | JWT | RBAC | API Security  
+
+**AI & Advanced Systems**
+- LLM-based AI Agents  
+- Multimodal AI (Text + Vision)  
+- Prompt Optimization Systems  
+- MCP Server Integrations  
+- AI Voice Systems (STT + TTS + Streaming)
+
+---
+
+### 🚀 Highlight Projects
+
+🔹 **High-Scale Voting Platform**
+- Handled **1M+ concurrent users**
+- Processed **crores of transactions** with zero downtime
+- Designed load-balanced infrastructure with DB replicas
+
+🔹 **AI Fitness Agent**
+- Built personalized AI-driven coaching system
+- Improved adherence by **85%**
+- Integrated LLMs with structured workflows
+
+🔹 **Background Verification Microservices**
+- Event-driven architecture using SNS/SQS
+- Reduced processing time through async workflows
+
+🔹 **Docker-based Code Execution Engine**
+- Secure sandboxed code runner
+- Scaled to 300+ concurrent executions
+- Reduced container spin-up time by ~40%
+
+🔹 **Low-Latency AI Voice Assistant**
+- Sub-500ms response time
+- Real-time streaming architecture
+- Improved conversation reliability by ~30%
+
+---
+
+### 📈 Engineering Impact
+
+- ⚡ Improved API & UI performance by up to **90%**
+- 📊 Boosted user onboarding growth by **25,000+ users in 3 months**
+- 📉 Reduced system turnaround time through workflow automation
+- 🧩 Designed scalable architectures with 99.8% uptime
+
+---
+
+### 💬 Ask Me About
+
+- Full Stack Architecture
+- AI Agents & LLM Integrations
+- Microservices & Event-Driven Systems
+- Performance Optimization
+- Scalable SaaS Platforms
+
+---
+
+### 📫 Connect With Me
+
 <p align="left">
-	<a href="https://linkedin.com/in/joy-tank-a8844b161" target="blank">
-		<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="joy-tank-a8844b161"
-			height="30" width="30" />
-	</a>
+  <a href="mailto:joytank.career@gmail.com">📧 Email</a> |
+  <a href="https://linkedin.com/in/joy-tank-a8844b161" target="blank">LinkedIn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-	<a href="https://angular.io" target="_blank" rel="noreferrer">
-		<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30" />
-	</a>
-	<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="express" width="30"
-			height="30" />
-	</a>	
-	<a href="https://nextjs.org" target="_blank" rel="noreferrer">
-		<img src="https://nextjs.org/favicon.ico" alt="angular" width="30" height="30" />
-	</a>
-	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-		<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="aws"
-			width="30" height="30" />
-	</a>
-	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="30"
-			height="30" />
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="30"
-			height="30" />
-	</a>
-	<a href="https://dart.dev" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg" alt="dart" width="30"
-			height="30" />
-	</a>
-	<a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="30"
-			height="30" />
-	</a>
-	<a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg"
-			alt="electron" width="30" height="30" />
-	</a>
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" />
-	</a>
-	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30" />
-	</a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30"
-			height="30" />
-	</a>
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="30" height="30" />
-	</a>
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" width="30"
-			height="30" />
-	</a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1024px-MySQL_logo.png"
-			alt="mysql" width="30" height="30" />
-	</a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" />
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html5" width="30" height="30" />
-	</a>
-	<a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-		<img src="https://ionicacademy.com/wp-content/uploads/2020/02/ionic-Logo.svg" alt="ionic" width="30"
-			height="30" />
-	</a>
-	<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/1920px-Nginx_logo.svg.png"
-			alt="nginx" width="30" height="30" />
-	</a>
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-		<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="postgresql" width="30"
-			height="30" />
-	</a>
-	<a href="https://postman.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"
-			height="30" />
-	</a>
+---
+
+### ⚡ Fun Fact
+I love solving complex engineering problems and turning ideas into scalable products.
+
+---
+
+<!-- Optional GitHub Stats -->
+
+<!--
+<p>&nbsp;<img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=iamjoytank&show_icons=true&locale=en"
+    alt="iamjoytank" />
 </p>
 
-<!-- <p>&nbsp;<img align="center"
-		src="https://github-readme-stats.vercel.app/api?username=iamjoytank&show_icons=true&locale=en"
-		alt="iamjoytank" />
+<p><img align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=iamjoytank&"
+    alt="iamjoytank" />
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamjoytank&" alt="iamjoytank" /></p> -->
+-->
