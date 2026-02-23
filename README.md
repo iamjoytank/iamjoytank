@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Full Stack Development, Coding practices, Time management **
 
-- 📫 How to reach me <a href="mailto:joytank531997@gmail.com">📧</a>
+- 📫 How to reach me <a href="mailto:joytank.career@gmail.com">📧</a>
 
 - ⚡ Fun fact **I'm Jolly**
 
@@ -19,14 +19,6 @@
 	<a href="https://linkedin.com/in/joy-tank-a8844b161" target="blank">
 		<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="joy-tank-a8844b161"
 			height="30" width="30" />
-	</a>
-	<a href="https://www.facebook.com/joy.tank/" target="blank" style="padding:0px 10px">
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg"
-			alt="joy tank" height="30" width="30" />
-	</a>
-	<a href="https://instagram.com/the__whizkid" target="blank">
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png"
-			alt="the__whizkid" height="30" width="30" />
 	</a>
 </p>
 
@@ -83,7 +75,7 @@
 			height="30" />
 	</a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1024px-MySQL_logo.svg.png"
+		<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1024px-MySQL_logo.png"
 			alt="mysql" width="30" height="30" />
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
